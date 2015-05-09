@@ -2,3 +2,6 @@
 
 #feature2
 1+3=4;
+
+#feature4
+2*2=4;
