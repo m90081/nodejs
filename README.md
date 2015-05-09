@@ -2,4 +2,4 @@
 
 using gulp to build javascript project.
 
-1. adding gulp
+1. adding gulpx
